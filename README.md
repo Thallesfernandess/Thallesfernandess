@@ -1,99 +1,115 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:0D0D0D,50:075985,100:06B6D4&text=THALLES%20FERNANDES&fontColor=FFFFFF&fontSize=42&fontAlignY=45&animation=fadeIn&desc=ESTUDANTE%20DE%20COMPUTACAO&descSize=16&descAlignY=68&descColor=67E8F9" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:075985,100:06B6D4&text=THALLES%20FERNANDES&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=COMPUTACAO%20%7C%20DESENVOLVIMENTO%20DE%20SOFTWARE&descSize=14&descAlignY=65&descColor=67E8F9&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%3E+Transformando+ideias+em+realidade_;%3E+Estudante+de+Computacao;%3E+Desenvolvendo+minhas+habilidades+em+Java;%3E+Aprender.+Codificar.+Evoluir." />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+formacao;Transformando+ideias+em+codigo;Java+%7C+Python+%7C+C;Aprender.+Construir.+Evoluir." />
 
 <br><br>
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<img src="https://img.shields.io/badge/Projetos-075985?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F172A,50:22D3EE,100:0F172A" width="85%"/>
 
 </div>
 
-<h2>01. / SOBRE MIM</h2>
+## `01` — Sobre mim
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Ola!+Eu+sou+Thalles+Fernandes.;Estudante+de+Computacao+%7C+Desenvolvedor+em+formacao." />
+<table>
+<tr>
+<td width="600">
+
+### Olá! Eu sou Thalles Fernandes 👋
+
+🎓 Estudante da área de Computação.
+
+💻 Desenvolvendo minhas habilidades em programação e desenvolvimento de software.
+
+🚀 Explorando tecnologias, praticando lógica de programação e construindo projetos acadêmicos e pessoais.
+
+🎯 Meu objetivo é evoluir constantemente e transformar conhecimento em soluções reais.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## `02` — Tech Stack
+
+<div align="center">
+
+### Linguagens de programação
+
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
 
 <br><br>
 
-Sou estudante da área de Computação e estou desenvolvendo minhas habilidades em programação e desenvolvimento de software.
+### Ferramentas de desenvolvimento
 
-Tenho interesse em aprender novas tecnologias, resolver problemas e criar projetos que coloquem em prática meus conhecimentos.
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea&theme=dark" />
+
+<br><br>
+
+### Versionamento e colaboração
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F172A,50:22D3EE,100:0F172A" width="85%"/>
+
+</div>
+
+## `03` — Projetos
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<img src="https://img.shields.io/badge/Explorar%20repositorios-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+
+<br><br>
+
+Aqui compartilho projetos acadêmicos, exercícios de programação e aplicações desenvolvidas durante minha jornada na Computação.
+
+</div>
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=06B6D4&text_color=CBD5E1&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"/>
+
+</div>
+
+## `05` — Filosofia
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Cada+linha+de+codigo+e+uma+oportunidade.;Consistencia+gera+evolucao.;O+proximo+commit+pode+ser+melhor." />
 
 <br>
 
-<img src="https://img.shields.io/badge/Estudante_de_Computacao-111111?style=flat-square&logo=academia&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/Aprendizado_Continuo-111111?style=flat-square&logo=github&logoColor=10B981"/>
+**`CODE • LEARN • BUILD • REPEAT`**
 
-</div>
+<br>
 
-<h2>02. / MINHA CAIXA DE FERRAMENTAS</h2>
-
-<div align="center">
-
-**LINGUAGENS DE PROGRAMAÇÃO**
-
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark"/>
-
-<br><br>
-
-**FERRAMENTAS DE DESENVOLVIMENTO**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea&theme=dark"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
-
-</div>
-
-<h2>03. / PROJETOS EM DESTAQUE</h2>
-
-<div align="center">
-
-Aqui você encontrará meus projetos acadêmicos e pessoais,
-exercícios de programação e aplicações desenvolvidas durante meus estudos.
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/VER_MEUS_REPOSITORIOS-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
-
-</div>
-
-<h2>04. / ATIVIDADE NO GITHUB</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=06B6D4&text_color=FFFFFF&border_color=0891B2&hide_border=false"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=06B6D4&center=true&vCenter=true&width=600&lines=Obrigado+por+visitar+meu+perfil!;Sempre+aprendendo.+Sempre+evoluindo.;Ate+o+proximo+commit."/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:075985,100:06B6D4&height=110&section=footer" width="100%"/>
-
-</div>
-```
+<img
