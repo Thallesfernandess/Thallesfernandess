@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:0D0D0D,50:075985,100:06B6D4&text=THALLES%20FERNANDES&fontColor=FFFFFF&fontSize=42&fontAlignY=45&animation=fadeIn&desc=ESTUDANTE%20DE%20COMPUTACAO&descSize=16&descAlignY=68&descColor=67E8F9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%3E+Transformando+ideias+em+realidade_;%3E+Estudante+de+Computação;%3E+Desenvolvendo+minhas+habilidades+em+Java;%3E+Aprender.+Codificar.+Evoluir." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%3E+Transformando+ideias+em+realidade_;%3E+Estudante+de+Computacao;%3E+Desenvolvendo+minhas+habilidades+em+Java;%3E+Aprender.+Codificar.+Evoluir." />
 
 <br><br>
 
