@@ -6,10 +6,10 @@
 
 <br><br>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Thallesfernandess">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=020617"/>
 </a>
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<a href="https://github.com/Thallesfernandess?tab=repositories">
 <img src="https://img.shields.io/badge/Projetos-312E81?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=312E81"/>
 </a>
 
