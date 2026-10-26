@@ -83,9 +83,9 @@ Aqui compartilho projetos acadêmicos, exercícios de programação e aplicaçõ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=190018&title_color=F472B6&icon_color=EC4899&text_color=FCE7F3&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thallesfernandess&show_icons=true&hide_border=true&bg_color=190018&title_color=F472B6&icon_color=EC4899&text_color=FCE7F3&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=190018&title_color=F472B6&text_color=FCE7F3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thallesfernandess&layout=compact&hide_border=true&bg_color=190018&title_color=F472B6&text_color=FCE7F3"/>
 
 <br><br>
 
