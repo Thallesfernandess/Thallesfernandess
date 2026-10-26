@@ -43,32 +43,20 @@ Tenho interesse em aprender novas tecnologias, resolver problemas e criar projet
 
 <br>
 
+
 <h2>02. / MINHA CAIXA DE FERRAMENTAS</h2>
 
 <div align="center">
 
-**LINGUAGENS DE PROGRAMAÇÃO**
-
-<img src="https://skillicons.dev/icons?i=c,python,java&theme=dark"/>
-
-<br><br>
-
-**IDEs E EDITORES DE CÓDIGO**
-
-<img src="https://skillicons.dev/icons?i=eclipse,vscode,idea&theme=dark"/>
-
-<br><br>
-
 **FERRAMENTAS DE DESENVOLVIMENTO**
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,eclipse,vscode,idea,git,github&theme=dark"/>
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
 
 </div>
-
 <br>
 
 <h2>03. / PROJETOS EM DESTAQUE</h2>
