@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Graduando+em+Computacao;Transformando+ideias+em+codigo;Java+%7C+Python+%7C+C;Aprender.+Construir.+Evoluir." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Foco+em+desenvolvimento+Back-end;Java+%7C+Python+%7C+C;Aprender.+Construir.+Evoluir." />
 
 <br><br>
 
@@ -31,13 +31,13 @@
 
 ### Olá! Eu sou Thalles Fernandes 👋
 
-🎓 Graduando em Computação.
+🎓 Graduando em Ciência da Computação na **UEPB**.
 
-💻 Desenvolvendo minhas habilidades em programação e desenvolvimento de software.
+💻 Desenvolvedor **Full Stack**, com foco em **desenvolvimento Back-end**.
 
-🚀 Explorando tecnologias, praticando lógica de programação e construindo projetos acadêmicos e pessoais.
+🚀 Gosto de transformar ideias em aplicações reais, explorar novas tecnologias e aprimorar continuamente minhas habilidades por meio da experiência prática.
 
-🎯 Meu objetivo é evoluir constantemente e transformar conhecimento em soluções reais.
+🎯 Busco evoluir constantemente, desenvolver soluções eficientes e transformar conhecimento em projetos reais.
 
 </td>
 </tr>
