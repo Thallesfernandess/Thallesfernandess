@@ -3,7 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:0D0D0D,50:075985,100:06B6D4&text=THALLES%20FERNANDES&fontColor=FFFFFF&fontSize=42&fontAlignY=45&animation=fadeIn&desc=ESTUDANTE%20DE%20COMPUTACAO&descSize=16&descAlignY=68&descColor=67E8F9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%3E+Transformando+ideias+em+realidade_;%3E+Estudante+de+Computacao;%3E+Desenvolvendo+minhas+habilidades+em+Java;%3E+Aprender.+Codificar.+Evoluir." />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%3E+Transformando+ideias+em+realidade_;%3E+Estudante+de+Computacao;%3E+Programando+em+C%2C+Python+e+Java;%3E+Aprender.+Codificar.+Evoluir." />
 
 <br><br>
 
@@ -16,6 +18,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
 
 </div>
+
+<br>
 
 <h2>01. / SOBRE MIM</h2>
 
@@ -31,11 +35,13 @@ Tenho interesse em aprender novas tecnologias, resolver problemas e criar projet
 
 <br>
 
-<img src="https://img.shields.io/badge/Estudante_de_Computacao-111111?style=flat-square&logo=academia&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Programacao-111111?style=flat-square&logo=code&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/Aprendizado_Continuo-111111?style=flat-square&logo=github&logoColor=10B981"/>
 
 </div>
+
+<br>
 
 <h2>02. / MINHA CAIXA DE FERRAMENTAS</h2>
 
@@ -43,19 +49,27 @@ Tenho interesse em aprender novas tecnologias, resolver problemas e criar projet
 
 **LINGUAGENS DE PROGRAMAÇÃO**
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,python,java&theme=dark"/>
+
+<br><br>
+
+**IDEs E EDITORES DE CÓDIGO**
+
+<img src="https://skillicons.dev/icons?i=eclipse,vscode,idea&theme=dark"/>
 
 <br><br>
 
 **FERRAMENTAS DE DESENVOLVIMENTO**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
 
 </div>
+
+<br>
 
 <h2>03. / PROJETOS EM DESTAQUE</h2>
 
@@ -75,6 +89,8 @@ exercícios de programação e aplicações desenvolvidas durante meus estudos.
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:164E63,50:06B6D4,100:10B981" width="90%"/>
 
 </div>
+
+<br>
 
 <h2>04. / ATIVIDADE NO GITHUB</h2>
 
